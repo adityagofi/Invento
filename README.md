@@ -7,7 +7,8 @@ Looking out in the real world, there are no applications or implementations (as 
 
 ## Machine Learning Model
 We will use the Neural Collaborative Filtering (NCF) model. The input for this model is the item vector consisting of the user ID and project ID, and the true label represents the interaction between the user and the item.
-## Features
+## Fe![Model Arsitektur](https://github.com/adityagofi/Invento/assets/114671113/9ffea33d-e601-41de-9cbe-5f3090140f6f)
+atures
 
 - Recommendation based on user interacting with item
 - Profile user
